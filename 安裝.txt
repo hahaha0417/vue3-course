@@ -1,0 +1,16 @@
+# 安裝vue
+# https://vuejs.org/guide/quick-start.html#with-build-tools
+npm init vue@latest
+vue --version
+cd hahaha
+npm install
+npm run lint
+npm run dev	
+
+// 生產環境
+npm run build
+
+
+// 插件
+Vue Volar extension Pack
+Vue Language Features (Volar)
